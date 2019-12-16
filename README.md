@@ -4,17 +4,7 @@
 
 数据集：[初赛-百度网盘]()	[复赛-百度网盘](https://pan.baidu.com/s/1dr_cXOkv28mLFb68aL5zqQ) 提取码：4obb
 
-解决方案：
-
-
-
-#### 全国高校计算机能力挑战赛——大数据算法赛
-
-[比赛网址]( http://www.ncccu.org.cn/case1.html)
-
-数据集：[百度网盘](https://pan.baidu.com/s/13zOB0BEQFAkc8Md8eiwwsQ) 提取码：n64q
-
-解决方案：
+解决方案：[YiGuan](./handle/yiguan.ipynb)
 
 
 
@@ -24,4 +14,16 @@
 
 数据集：[初赛-百度网盘](https://pan.baidu.com/s/1Yw7iWZvWC2i7YPB4lHrJ_g) 提取码：kvy9	[复赛-百度网盘](https://pan.baidu.com/s/13g2SEkSY5xo25PBDYJkqSg) 提取码：wswa
 
-解决方案：
+解决方案：[DcCup](./handle/dccup.ipynb)
+
+
+
+#### 全国高校计算机能力挑战赛——大数据算法赛
+
+[比赛网址]( http://www.ncccu.org.cn/case1.html)
+
+数据集：[百度网盘](https://pan.baidu.com/s/13zOB0BEQFAkc8Md8eiwwsQ) 提取码：n64q
+
+解决方案：[BigData](./handle/bigdata.ipynb)
+
+
